@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Social Media Share Buttons v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-18 11:37+0100\n"
+"PO-Revision-Date: 2015-07-18 09:43:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: index.php:330
+#@ woocommerce-social-media-share-buttons
+msgid "WooCoomerce Social Media Share Buttons - Settings"
+msgstr "WooCoomerce Social Media Share Buttons - Settings"
+
+#: index.php:333
+#@ woocommerce-social-media-share-buttons
+msgid "Your settings have been saved."
+msgstr "Your settings have been saved."
+
+#: index.php:335
+#@ woocommerce-social-media-share-buttons
+msgid ""
+"<p>By default the plugin adds social media share buttons to your woocommerce store products page (just below the 'add to cart' button). With the addition of a shortcode you can use it to add social media share buttons in posts, pages, products, events, widget etc.</p>\n"
+"        <p>Use shortcode to add social media share buttons to posts, pages, products, events etc. [woocommerce_social_media_share_buttons]</p>\n"
+"        <p>Add shortcode to your WordPress theme, or php widget. &lt;?php echo do_shortcode( '[woocommerce_social_media_share_buttons]' ); ?></p>"
+msgstr ""
+"<p>By default the plugin adds social media share buttons to your woocommerce store products page (just below the 'add to cart' button). With the addition of a shortcode you can use it to add social media share buttons in posts, pages, products, events, widget etc.</p>\n"
+"        <p>Use shortcode to add social media share buttons to posts, pages, products, events etc. [woocommerce_social_media_share_buttons]</p>\n"
+"        <p>Add shortcode to your WordPress theme, or php widget. &lt;?php echo do_shortcode( '[woocommerce_social_media_share_buttons]' ); ?></p>"
+
+#: index.php:340
+#@ woocommerce-social-media-share-buttons
+msgid "Which share buttons would you like to show?"
+msgstr "Which share buttons would you like to show?"
+
+#: index.php:343
+#@ woocommerce-social-media-share-buttons
+msgid "Facbook"
+msgstr "Facbook"
+
+#: index.php:345
+#@ woocommerce-social-media-share-buttons
+msgid "Twitter"
+msgstr "Twitter"
+
+#: index.php:347
+#@ woocommerce-social-media-share-buttons
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: index.php:349
+#@ woocommerce-social-media-share-buttons
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: index.php:351
+#@ woocommerce-social-media-share-buttons
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: index.php:353
+#@ woocommerce-social-media-share-buttons
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: index.php:355
+#@ woocommerce-social-media-share-buttons
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: index.php:357
+#@ woocommerce-social-media-share-buttons
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: index.php:359
+#@ woocommerce-social-media-share-buttons
+msgid "Email"
+msgstr "Email"
+
+#: index.php:362
+#@ woocommerce-social-media-share-buttons
+msgid "What format do you want the share buttons?"
+msgstr "What format do you want the share buttons?"
+
+#: index.php:366
+#@ woocommerce-social-media-share-buttons
+msgid "Button"
+msgstr "Button"
+
+#: index.php:368
+#@ woocommerce-social-media-share-buttons
+msgid "Button with counter"
+msgstr "Button with counter"
+
+#: index.php:370
+#@ woocommerce-social-media-share-buttons
+msgid "Box with counter"
+msgstr "Box with counter"
+
+#: index.php:374
+#@ woocommerce-social-media-share-buttons
+msgid "Note: Some buttons do not show the share count until the url has been shared atleast once. Email does not show the share count at all."
+msgstr "Note: Some buttons do not show the share count until the url has been shared atleast once. Email does not show the share count at all."
+
+#: index.php:378
+#@ woocommerce-social-media-share-buttons
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#. translators: plugin header field 'Name'
+#: index.php:0
+#@ woocommerce-social-media-share-buttons
+msgid "WooCommerce Social Media Share Buttons"
+msgstr "WooCommerce Social Media Share Buttons"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: index.php:0
+#@ woocommerce-social-media-share-buttons
+msgid "http://www.toastiestudio.com"
+msgstr "http://www.toastiestudio.com"
+
+#. translators: plugin header field 'Description'
+#: index.php:0
+#@ woocommerce-social-media-share-buttons
+msgid "The Woocommerce Social Media Share Buttons plugin allows visitors to your woocommerce shop to easily share your products on popular social media platforms."
+msgstr "The Woocommerce Social Media Share Buttons plugin allows visitors to your woocommerce shop to easily share your products on popular social media platforms."
+
+#. translators: plugin header field 'Author'
+#: index.php:0
+#@ woocommerce-social-media-share-buttons
+msgid "Toastie Studio"
+msgstr "Toastie Studio"
+
+#. translators: plugin header field 'Version'
+#: index.php:0
+#@ woocommerce-social-media-share-buttons
+msgid "1.0.2"
+msgstr "1.0.2"
+
